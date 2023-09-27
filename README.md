@@ -1,2 +1,2 @@
 # Calculadora1
-Calcualadora git
+Calcualadora  de git
